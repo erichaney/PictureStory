@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Feature
+comment1.params=name\ filePath\ x\ y
+comment1.target=Feature(java.lang.String,\ java.lang.String,\ double,\ double)
+comment2.params=name\ x\ y\ width\ height
+comment2.target=Feature(java.lang.String,\ double,\ double,\ double,\ double)
+comment3.params=mouseX\ mouseY
+comment3.target=boolean\ isClicked(double,\ double)
+numComments=4

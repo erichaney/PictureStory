@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Door
+comment1.params=filePath\ x\ y\ nextRoom
+comment1.target=Door(java.lang.String,\ double,\ double,\ Room)
+numComments=2
